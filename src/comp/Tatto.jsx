@@ -282,7 +282,7 @@ export default function TattooArtistSite() {
               </svg>
               <span className="font-black tracking-widest">THE INKLAB</span>
             </div>
-            <p className="mt-3 text-sm text-zinc-400">Studio 22, Hauz Khas, New Delhi • Tue–Sun 11am–8pm</p>
+            <p className="mt-3 text-sm text-zinc-400">Studio 22, Jalandhar, Punjab • Tue–Sun 11am–8pm</p>
           </div>
           <div className="space-x-6 text-sm text-zinc-300 md:justify-self-center">
             <a href="#about" className="hover:text-white">About</a>
