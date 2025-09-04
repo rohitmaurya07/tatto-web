@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import Hero from "./Hero";
 import Heroslideshow from "./Hero";
+import TattooReelSection from "./Video";
 
 // --- Helper variants
 const fadeUp = {
@@ -151,8 +152,9 @@ export default function TattooArtistSite() {
           ))}
         </div>
       </Section>
-
+            
       {/* Gallery */}
+      <TattooReelSection/>
       <Section id="gallery" className="border-t border-white/5">
         <Heading kicker="Portfolio" title="Recent Work" subtitle="A peek into the ink. Tap to view in full." />
         <div className="mx-auto mt-12 grid max-w-6xl grid-cols-2 gap-3 px-4 md:grid-cols-3 lg:grid-cols-4">
