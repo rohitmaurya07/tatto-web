@@ -67,7 +67,7 @@ export default function HeroSlideshow() {
       {/* Foreground content */}
       <div className="relative z-20 flex h-full flex-col items-center justify-center text-center  md:px-4 pb-50 sm:pb-20 lg:pb-32 px-6">
         <span className="inline-block rounded-full border border-white/20 bg-black/40 px-3 py-1 text-[10px] sm:text-xs uppercase tracking-wider text-white/90">
-          Custom Tattoos • Delhi
+          Custom Tattoos • Jalandhar
         </span>
 
         <h1 className="mt-3 text-5xl sm:mt-4 sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-white drop-shadow-lg leading-snug">

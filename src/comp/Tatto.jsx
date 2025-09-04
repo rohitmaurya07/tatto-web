@@ -66,7 +66,7 @@ export default function TattooArtistSite() {
               <path d="M3 12c6-2 5-8 9-8s3 6 9 8-3 8-9 8-3-6-9-8Z" stroke="currentColor" strokeWidth="1.5"/>
               <path d="M12 5v14" stroke="currentColor" strokeWidth="1.5"/>
             </svg>
-            <span className="font-black tracking-widest text-white">INKFORGE</span>
+            <span className="font-black tracking-widest text-white">THE INKLAB</span>
           </a>
           <nav className="hidden gap-6 md:flex">
             <NavLink href="#gallery">Gallery</NavLink>
@@ -278,7 +278,7 @@ export default function TattooArtistSite() {
                 <path d="M3 12c6-2 5-8 9-8s3 6 9 8-3 8-9 8-3-6-9-8Z" stroke="currentColor" strokeWidth="1.5"/>
                 <path d="M12 5v14" stroke="currentColor" strokeWidth="1.5"/>
               </svg>
-              <span className="font-black tracking-widest">INKFORGE</span>
+              <span className="font-black tracking-widest">THE INKLAB</span>
             </div>
             <p className="mt-3 text-sm text-zinc-400">Studio 22, Hauz Khas, New Delhi • Tue–Sun 11am–8pm</p>
           </div>
@@ -296,7 +296,7 @@ export default function TattooArtistSite() {
           </div>
         </div>
         <div className="border-t border-white/5 py-6 text-center text-xs text-zinc-500">
-          © {new Date().getFullYear()} Inkforge Studio. All rights reserved.
+          © {new Date().getFullYear()} The Inklab Studio. All rights reserved.
         </div>
       </footer>
     </div>
