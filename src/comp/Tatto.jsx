@@ -197,15 +197,7 @@ export default function TattooArtistSite() {
               <li className="rounded-xl border border-white/10 bg-white/5 px-3 py-2">Touch-up support</li>
             </ul>
           </motion.div>
-          <motion.img
-            initial={{ opacity: 0, x: 16 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-            src="https://cdn.pixabay.com/photo/2015/08/16/12/39/man-890887_1280.jpg"
-            alt="Artist portrait"
-            className="aspect-[4/5] w-full rounded-3xl object-cover border border-white/10"
-          />
+          
         </div>
       </Section>
 
